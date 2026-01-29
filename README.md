@@ -1,7 +1,7 @@
 # PortSkanner
 Advanced Port Scanner
 
-# PyNuke - Advanced Port Scanner
+# PyRecon - Advanced Port Scanner
 
 **Professional-grade port scanner with vulnerability detection, service fingerprinting, and reporting capabilities.**
 
