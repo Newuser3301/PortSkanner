@@ -175,16 +175,3 @@ Contributions are welcome if they:
 - respect the project’s scope  
 
 Exploit-oriented contributions will be rejected.
-
----
-
-## 📜 License
-
-MIT — use responsibly.
-
----
-
-## 🏁 Final Statement
-
-> You can’t secure what you don’t see.  
-> PyRecon exists to make the unseen visible.
