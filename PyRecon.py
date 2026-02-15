@@ -1,21 +1,3 @@
-#!/usr/bin/env python3
-"""
-PyRecon v2.0 - Advanced Network Scanner & Security Assessment Tool
-Next-generation port scanner with OS fingerprinting, vulnerability assessment,
-and evasion techniques.
-
-Features:
-- Advanced TCP scanning (SYN, ACK, FIN, NULL, XMAS, Maimon, Idle scan)
-- Intelligent UDP scanning with protocol-specific probes
-- Full IPv6 support
-- Service fingerprinting (like nmap-service-probes)
-- OS detection via TCP/IP stack fingerprinting
-- Packet crafting with Scapy for full control
-- Evasion techniques (fragmentation, timing, decoys)
-- Integration with CVE databases
-- Output to Elasticsearch, Splunk, etc.
-"""
-
 import socket
 import struct
 import sys
